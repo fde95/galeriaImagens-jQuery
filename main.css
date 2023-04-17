@@ -106,3 +106,20 @@ ul li img{
 ul li:hover .overlayImageLink{
     opacity: 1;
 }
+
+footer{
+    margin-top: 360px;
+    padding: 10px;
+    text-align: center;
+    background-color: #1F1F26;
+    color: #8C8070;
+}
+
+footer a{
+    text-decoration: none;
+    color: #8C8070;
+}
+
+footer a:hover{
+    color: #fff;
+}
